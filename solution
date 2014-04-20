@@ -1,0 +1,141 @@
+Tile 1 equivalent to:
+Tile 2 equivalent to: Tile 5 (rotated 0, flipped True)
+Tile 3 equivalent to: Tile 6 (rotated 0, flipped True)
+Tile 4 equivalent to:
+Tile 7 equivalent to:
+Tile 8 equivalent to:
+Tile 9 equivalent to:
+
+SOLUTION 1
+0: Tile 2 (rotated 3, flipped False)
+1: Tile 3 (rotated 3, flipped True)
+2: Tile 1 (rotated 0, flipped False)
+3: Tile 8 (rotated 2, flipped True)
+4: Tile 4 (rotated 2, flipped True)
+5: Tile 9 (rotated 2, flipped True)
+6: Tile 7 (rotated 1, flipped False)
+7: Tile 6 (rotated 0, flipped False)
+8: Tile 5 (rotated 2, flipped False)
+
+SOLUTION 2
+0: Tile 2 (rotated 3, flipped False)
+1: Tile 9 (rotated 3, flipped False)
+2: Tile 5 (rotated 3, flipped False)
+3: Tile 3 (rotated 1, flipped False)
+4: Tile 4 (rotated 3, flipped False)
+5: Tile 6 (rotated 2, flipped True)
+6: Tile 8 (rotated 1, flipped False)
+7: Tile 7 (rotated 2, flipped True)
+8: Tile 1 (rotated 0, flipped False)
+
+SOLUTION 3
+0: Tile 2 (rotated 0, flipped True)
+1: Tile 3 (rotated 2, flipped True)
+2: Tile 5 (rotated 3, flipped False)
+3: Tile 9 (rotated 0, flipped True)
+4: Tile 4 (rotated 0, flipped True)
+5: Tile 7 (rotated 1, flipped True)
+6: Tile 8 (rotated 1, flipped False)
+7: Tile 6 (rotated 3, flipped True)
+8: Tile 1 (rotated 0, flipped False)
+
+SOLUTION 4
+0: Tile 2 (rotated 1, flipped True)
+1: Tile 9 (rotated 1, flipped True)
+2: Tile 5 (rotated 1, flipped True)
+3: Tile 3 (rotated 1, flipped False)
+4: Tile 4 (rotated 3, flipped False)
+5: Tile 6 (rotated 2, flipped True)
+6: Tile 8 (rotated 1, flipped False)
+7: Tile 7 (rotated 2, flipped True)
+8: Tile 1 (rotated 0, flipped False)
+
+SOLUTION 5
+0: Tile 2 (rotated 3, flipped True)
+1: Tile 3 (rotated 3, flipped True)
+2: Tile 1 (rotated 0, flipped False)
+3: Tile 7 (rotated 3, flipped False)
+4: Tile 4 (rotated 2, flipped True)
+5: Tile 9 (rotated 2, flipped True)
+6: Tile 5 (rotated 2, flipped True)
+7: Tile 6 (rotated 0, flipped True)
+8: Tile 8 (rotated 0, flipped False)
+
+SOLUTION 6
+0: Tile 2 (rotated 3, flipped True)
+1: Tile 3 (rotated 3, flipped True)
+2: Tile 1 (rotated 0, flipped False)
+3: Tile 7 (rotated 3, flipped False)
+4: Tile 4 (rotated 2, flipped True)
+5: Tile 9 (rotated 2, flipped True)
+6: Tile 8 (rotated 0, flipped True)
+7: Tile 6 (rotated 0, flipped False)
+8: Tile 5 (rotated 2, flipped False)
+
+SOLUTION 7
+0: Tile 2 (rotated 3, flipped True)
+1: Tile 7 (rotated 0, flipped False)
+2: Tile 1 (rotated 0, flipped False)
+3: Tile 3 (rotated 2, flipped True)
+4: Tile 4 (rotated 1, flipped False)
+5: Tile 6 (rotated 3, flipped True)
+6: Tile 8 (rotated 0, flipped True)
+7: Tile 9 (rotated 1, flipped False)
+8: Tile 5 (rotated 1, flipped True)
+
+SOLUTION 8
+0: Tile 3 (rotated 3, flipped True)
+1: Tile 1 (rotated 0, flipped False)
+2: Tile 2 (rotated 2, flipped False)
+3: Tile 5 (rotated 0, flipped False)
+4: Tile 9 (rotated 2, flipped True)
+5: Tile 6 (rotated 3, flipped True)
+6: Tile 7 (rotated 3, flipped True)
+7: Tile 4 (rotated 0, flipped False)
+8: Tile 8 (rotated 1, flipped True)
+
+SOLUTION 9
+0: Tile 7 (rotated 3, flipped False)
+1: Tile 4 (rotated 0, flipped False)
+2: Tile 8 (rotated 1, flipped False)
+3: Tile 2 (rotated 2, flipped False)
+4: Tile 9 (rotated 2, flipped True)
+5: Tile 3 (rotated 3, flipped True)
+6: Tile 6 (rotated 3, flipped True)
+7: Tile 1 (rotated 0, flipped False)
+8: Tile 5 (rotated 0, flipped False)
+
+SOLUTION 10
+0: Tile 7 (rotated 1, flipped True)
+1: Tile 3 (rotated 2, flipped False)
+2: Tile 2 (rotated 2, flipped True)
+3: Tile 8 (rotated 0, flipped False)
+4: Tile 4 (rotated 0, flipped False)
+5: Tile 9 (rotated 2, flipped True)
+6: Tile 5 (rotated 3, flipped False)
+7: Tile 6 (rotated 3, flipped True)
+8: Tile 1 (rotated 0, flipped False)
+
+SOLUTION 11
+0: Tile 8 (rotated 2, flipped False)
+1: Tile 3 (rotated 2, flipped False)
+2: Tile 2 (rotated 2, flipped True)
+3: Tile 7 (rotated 3, flipped True)
+4: Tile 4 (rotated 0, flipped False)
+5: Tile 9 (rotated 2, flipped True)
+6: Tile 5 (rotated 3, flipped True)
+7: Tile 6 (rotated 3, flipped True)
+8: Tile 1 (rotated 0, flipped False)
+
+SOLUTION 12
+0: Tile 8 (rotated 1, flipped True)
+1: Tile 9 (rotated 3, flipped False)
+2: Tile 2 (rotated 3, flipped True)
+3: Tile 3 (rotated 1, flipped True)
+4: Tile 4 (rotated 3, flipped False)
+5: Tile 6 (rotated 2, flipped True)
+6: Tile 5 (rotated 3, flipped False)
+7: Tile 7 (rotated 2, flipped True)
+8: Tile 1 (rotated 0, flipped False)
+
+Found 12 solutions after testing 496168 configurations
